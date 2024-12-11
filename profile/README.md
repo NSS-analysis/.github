@@ -19,14 +19,3 @@
 - Presentation of results as tables and charts.
 
 **Project Goal**: To provide an open-source alternative for planning and analysis in this industry.
-
----
-
-## Features
-- Multifactor efficiency calculations.
-- Visualization of results with graphs and tables.
-- Open-source for adaptability and transparency.
-
-
-## License
-This project is licensed under the MIT License.
